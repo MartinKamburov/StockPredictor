@@ -1,0 +1,3 @@
+firstly run: myenv\Scripts\activate
+
+start project: streamlit run app.py
